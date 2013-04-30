@@ -1,0 +1,30 @@
+h2 {
+    height: 60px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #69D2E7;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Sans-Serif;
+    opacity: 0.75;
+}
+h1 {
+  color: ##606060;
+	font-family: Tahoma;
+	text-shadow: 0 0 5px #C8C8C8, 0 0 10px #C8C8C8, 
+			0 0 20px #C8C8C8, 0 0 30px #C8C8C8, 
+			0 0 40px #C8C8C8;
+}
+
+img {
+	opacity: 0.45;
+	height: 250px;
+	width: 250px;
+}
+
+#clock {
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 80px;
+	color: #8A00B8;
+}
